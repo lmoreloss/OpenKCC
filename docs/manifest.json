@@ -1,0 +1,1062 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://nickmaltbie.com/OpenKCC/docs/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://nickmaltbie.com/OpenKCC/docs/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "D:/a/OpenKCC/OpenKCC/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Animation.CharacterAnimator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Animation.CharacterAnimator.html",
+          "hash": "bAvNJn5x3FXK5+8Zl16GMH/anXe0St11Z9Bg5pehW34="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Animation.CharacterAnimatorState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Animation.CharacterAnimatorState.html",
+          "hash": "bjRZ2oWrvUN8BQoQU+reYdEJ1jG5ioL+wBzH8QlDgr0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Animation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Animation.html",
+          "hash": "+T/G1TOe8lSq5vdEawh/SuY80T+xvGHedzfAFetyPDQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.CameraController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.CameraController.html",
+          "hash": "66h5Vk5k58KN0QUNcMZFdYBVj5M9ev0cK1+0QKH+nh0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.CameraFollow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.CameraFollow.html",
+          "hash": "/TWmM+Ot0oC4R1vAKzuY4qhKdOhOWdYtDaQRShi5Toc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.CharacterPush.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.CharacterPush.html",
+          "hash": "oMl7NNixY0uRVBNt+UkLD8xs4PiDypUK3AdtRsuOi1Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.KinematicCharacterController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.KinematicCharacterController.html",
+          "hash": "84M7bzcyDbwOKRUrJ3VJ3q7btZw9fY8i9IueFfXHxkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.PlayerInputState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.PlayerInputState.html",
+          "hash": "ggr2lAbsPx6xugYYJbS2LhjW/XDvuNJOBWVZgTVyOgw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.PlayerInputUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.PlayerInputUtils.html",
+          "hash": "sSxJGU8UNsva+fESIQu9PMv4KhDn9hGlgWygIFE12ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Character.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Character.html",
+          "hash": "Al+c1BvN1B8RjpHL43SB8PSCj1e2Lj2tbiZSQb0wcyw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCBounces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCBounces.html",
+          "hash": "HVFmg3CVuoPEDSAfjrC17itrrKUSTpulj66MpU98isA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCGrounded.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCGrounded.html",
+          "hash": "o1IdRf4mBoXvvSMrODQ3DCaEOAGnkf7AXthvKn+/AfA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCGroundedAngle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCGroundedAngle.html",
+          "hash": "0fWQ8wwGriLWwR/JBPIluzD0tmJj+6k9PAcBZsn+agY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCSteps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.DrawKCCSteps.html",
+          "hash": "w48WQXCn6rohd9nkUyk2pq+tJWOknnxnSdKPXlKXGgE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.SimplifiedKCC.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.SimplifiedKCC.html",
+          "hash": "WsM9zFE23XdB7Vp+9Qo261XNhSzaLBmHF0SjuSoZhvE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.SimplifiedKCCWithJump.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.SimplifiedKCCWithJump.html",
+          "hash": "JAb/Eo5xD0Bd8FQykaOm4NQ0qNiVpsgimr1g1K6qPeM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Demo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Demo.html",
+          "hash": "UbsdcxLoAtGz/cte8085HxLyDlHOFsBH8l+c1a/BnEI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.DetectPlayerStand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.DetectPlayerStand.html",
+          "hash": "T5X5EOx/WSAROODjwWKMAOuTxT3Qiq9ioZ68t2nAsAo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.IMovingGround.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.IMovingGround.html",
+          "hash": "ils7JIDef60VZ6GxvLJtjuVkW8DJeukrHfvWpGdWR8c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.MovementTracking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.MovementTracking.html",
+          "hash": "FaUNpt4luzpyUKlVUB203ux2IiT0GTZnDxV8l1rc4hE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RelativeVelocityMovementTracking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RelativeVelocityMovementTracking.html",
+          "hash": "N7JRPPuIqwiMugL6t3VZcS0/PmMeKXzbSCNVua0oDOw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RelativeVelocityRigidbodyTracking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RelativeVelocityRigidbodyTracking.html",
+          "hash": "N0n1UihO3zCqKIVPak0+K2aqMO9GnD0CAQ/HQUEhsmY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RigidbodyMovingGround.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.RigidbodyMovingGround.html",
+          "hash": "F6V+3pPyV8Pa/pj0kK0nqRGZKV/im0MMCMF3hJScNjg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingGround.html",
+          "hash": "Pnqmi33BocMWnpA7WSZbIaSzQ7zLcgv2pFbFdFdkxvg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingPlatform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.MovingPlatform.html",
+          "hash": "nXWJnm2WlaKi6jEb9JoPHsVgWJHAXkSV2MSPkwTyWdg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.IPushable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.IPushable.html",
+          "hash": "EgmPK2EWq+b3AbdhvlSVZNMa+DjtXtCKqll3ikSdnhg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.Pushable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.Pushable.html",
+          "hash": "Wsd2k1XvJ3efugX2v2+Yt+36yWudpNnQgj1Wu4KGBfQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.Pushable.html",
+          "hash": "dit3jtf/vwVABrJYOHYDouKefVXDqSJPBBkoF1bQD8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.Teleporter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.Teleporter.html",
+          "hash": "TFL4NkkJxv6KgrrfghYmFSmc4CEOdOKuK0/h073yrk0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Environment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Environment.html",
+          "hash": "TDnJPF6zsX2dLTxiwuog+bnt1AtAJTsqvEyHvktWzlw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeMouseSensitivity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeMouseSensitivity.html",
+          "hash": "1mEWueKVjEcZsfBnhhAxQXgHqv+h7TEujpN9cBLRB8Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeQualityActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeQualityActions.html",
+          "hash": "Ajkhi6vBWU1hkGbP28h362d5IAqFPQ7VgYnju/fUYxI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeScreenActions.ScreenSettingsGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeScreenActions.ScreenSettingsGroup.html",
+          "hash": "GDqcEgfOD6dacYeu4XiQInBvpoy/M7XEsgtIfkYWoig="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeScreenActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ChangeScreenActions.html",
+          "hash": "3uG8gKcPNb0VQTuOC39M3pFvx5HMh6VBtR97Xe3a24Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.IBindingControl.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.IBindingControl.html",
+          "hash": "A0y2gfP+620cW+oq1i/b5GZDzvZQwPYcr8+L3mVjmPU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.QuitGameAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.QuitGameAction.html",
+          "hash": "13nbPhAI5Muoj4nniJmiVQHXGu16xn0WAT8a80xTpkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindCompositeInput.RebindingGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindCompositeInput.RebindingGroup.html",
+          "hash": "MnHJn/ACruNQHBjGnnPipfg0SRjFn6Jp1udxaFLS7+M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindCompositeInput.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindCompositeInput.html",
+          "hash": "LDxsXDgAoPYCiAu5+shOG+74YP0rmbjAdOTMderMyk4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindInputButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.RebindInputButton.html",
+          "hash": "h45fkdJC6xOWzZN4M/+BAikcEQW8R5tLPUMAHWYaV9o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ResetBindingsButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ResetBindingsButton.html",
+          "hash": "HWApDs2MoWoHb7CeuDFBG3qM3IAUGdCshXS81H9Vu3M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ScreenLoading.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ScreenLoading.html",
+          "hash": "TuctGCHoNSElhqRPvBH3NSgtcn/70qJON557+ngoNM8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.SoundAdjustActions.AudioMixerSettingsGroup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.SoundAdjustActions.AudioMixerSettingsGroup.html",
+          "hash": "usbWdszSF9eWx7KA/Py5jcpzVmI4P4idTvI+jUqhU84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.SoundAdjustActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.SoundAdjustActions.html",
+          "hash": "+RpLb2YBX4rCte1xcE09dh9ua4pfOWwZZJ9nMcYc43M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ToggleFullScreenAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.ToggleFullScreenAction.html",
+          "hash": "vdFaMWTAVGE3NlvelJN4RNhrtwAzjo/GqTmK9gaPaqw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Actions.html",
+          "hash": "tBEiu6vbkYVN6jpL7Lo5gk+0H+y0E7KPifBVlYiyAJ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.DisplayControls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.DisplayControls.html",
+          "hash": "JKfhT6Gv5tnPRpB9KEqIRR//q9JctmWyrR3QdnYsuc0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Events.CursorStateOnMenuLoad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Events.CursorStateOnMenuLoad.html",
+          "hash": "Pa4MWW2/HcSJmwMsMDyojOLP/uvRcCAhT+aK9ir5j1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Events.LoadScreenOnEnable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Events.LoadScreenOnEnable.html",
+          "hash": "rEfHZ+m74I5MvVmDd+srPa1DaEH0cI8tcAhXvgPwcYM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Events.PlayerMovementStateOnMenuLoad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Events.PlayerMovementStateOnMenuLoad.html",
+          "hash": "w2Nop3/rmc8B8luGt+WRA8qeWt4cBXA2re/HObShKZE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Events.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Events.html",
+          "hash": "lXYwgmABWoInGDBCn4hFf4diaDAX72+sQTLZrZ674+g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.GameScreen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.GameScreen.html",
+          "hash": "Ydc39deixqdfP0V0MfQbTxgLCRRXq480doTVCZYpfRE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.HideOnPlatform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.HideOnPlatform.html",
+          "hash": "BgBXqlLO1J7BUpgnlOiCuWa1xql23P3wEw11+IwJg3g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.IScreenComponent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.IScreenComponent.html",
+          "hash": "c3/qQqGJ6P0hSC4zzKaU9gewoxzMnRP4jMogZcNYulQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.MenuController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.MenuController.html",
+          "hash": "Gsb6mmquoTWUif5lYUuoXuMWwkZSAJ+0AxCIkBFAwc0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.PopulateVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.PopulateVersion.html",
+          "hash": "W8k/8rgTVwv5H4p+zyQI0wSo1c49W5m4cyRobjO3/Hw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.RequestScreenChangeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.RequestScreenChangeEventArgs.html",
+          "hash": "PtZlLCuac7PA6lPQSY5dDnKeFKZq6cx2MXL5JCYJERY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.ScreenChangeEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.ScreenChangeEventArgs.html",
+          "hash": "cXjPa3lmF8un1xe/3g8Zlo/wbO2UXbXOD9RDYDPpHGs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.ShowOnPlatform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.ShowOnPlatform.html",
+          "hash": "fiMl5x1UhznAMklLN/tqlT6xPU5UQWlbrPpNriPUSYQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.TabPair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.TabPair.html",
+          "hash": "eES+Src8yZVBsHoj6fa2nv3VHoVKfnrnG77ZAydQ8J4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.TabStrip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.TabStrip.html",
+          "hash": "OW/sQSLrA4hB92jM7PNKvccagtdmn+ytS+f/dy2P+es="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Text.TMProUGUIHyperlinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Text.TMProUGUIHyperlinks.html",
+          "hash": "PpXR1wOFnfhWRRhvVC4FojeA0lSRi3nrIBnSQO5DBUc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.Text.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.Text.html",
+          "hash": "mxFxgKqR6eRVTvgLPLM8XGHNEC3SqYd8wSsHPEjaRlk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.UIManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.UIManager.html",
+          "hash": "d/QAF3YEygWb0oLTWkKnMYH1XMNEgWRJCCKSyQ9O2FA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.UI.html",
+          "hash": "w6WXS8gz8slrLt/Le5Ny03IsDMW0O4YS6GDdBo5YvQ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleColliderCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleColliderCast.html",
+          "hash": "TB9wSRS89zX0QH0tTI7NI0/A7cgWXvqEu0xd7x5CetM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleMaker.UvProfile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleMaker.UvProfile.html",
+          "hash": "/jp6nT30DKnYc7guiIkktm4mkG/+K2g/4AUb7e46Iw8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleMaker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.CapsuleMaker.html",
+          "hash": "HFq4l0WXohQbEcKlZXEhA+yQGvH2y39lMW0LeCOTY48="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.ControllerColliderHitWrapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.ControllerColliderHitWrapper.html",
+          "hash": "nxaE5lJHIjfE+4nrlI4eOUJqiHM1Xy4LozL/uIU8zKI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.IColliderCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.IColliderCast.html",
+          "hash": "PeuTo0dMg8MG311OL/pQ599UIos/ej+yH7fqKGUY5Ew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.IControllerColliderHit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.IControllerColliderHit.html",
+          "hash": "fMH/TWyS1AtRd+WaS/vHWJ40loVmDkMCml6xCgVv4jM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCBounce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCBounce.html",
+          "hash": "XdGj7QXi0/NPWxz8xcSqnkWQEK4S3MGn9k4mOjB9efw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCUtils.MovementAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCUtils.MovementAction.html",
+          "hash": "/UvNGK05mV9FCxv0pCxA+MpPphpjBVpxjxyF8x5aOiA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.KCCUtils.html",
+          "hash": "zT9IcLRN3MenNk9rZ9UB9RPHx6zXbxyR9PsT060V/4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.KinematicCharacterControllerHit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.KinematicCharacterControllerHit.html",
+          "hash": "Q01mf0l8klgyzp7emdhdkK1bnTjWIqZCc0myA1W+MEM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.MaterialUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.MaterialUtils.html",
+          "hash": "g1qO/LeN4xUEI6Kxi2E8Udy/kCXhaFNCXW0uymq0F0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.PhysicsUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.PhysicsUtils.html",
+          "hash": "Ug3x0ZackVsbDpXcXZ+evDID49ZXjLh/+pGSumSr67U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/nickmaltbie.OpenKCC.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/nickmaltbie.OpenKCC.Utils.html",
+          "hash": "cR0+LpiK96WlJ1icfqE1KKcWhJdF9eJPl/I9aCYyVww="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "DDcxBqwGyXR7v9zKC3rZBc5mPTkwCk1qW3tjkjrW9H0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "MxkEbb3DJle7WUaBBhfIiW1wZJ+vXFoDPaAZOnk27kY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/introduction.html",
+          "hash": "g6FYoY5/pTrmQpn9RCTuEe9eCZnLjpyL+El5BzsFd2k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "m2S1Yi8n1lPXDZKT5Jv0VY0xWYHT7GRxoxwMIyyIMSI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "UD0WfqLKT+mAtfzdZ3JesGSqQqNacMaRODbsi/P/3CM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 77,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
